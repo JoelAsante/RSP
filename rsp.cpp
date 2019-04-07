@@ -1,7 +1,5 @@
 //Joel Asante 
-//CS311 A
-//Homework 2
-//Rock Paper Scissor Game  Homework
+//Rock Paper Scissor Game  
 
 
 #include <iostream>
